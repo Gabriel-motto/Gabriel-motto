@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola! Soy Gabriel
 
-<!--
-**Gabriel-motto/Gabriel-motto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Actualmente trabajo para Dauch (Antigua GKN Automotive) como programador web. [Copia del proyecto principal](https://github.com/Gabriel-motto/WebStockCopy).
+Mis tiempos libres los dedico al desarrollo de mi proyecto personal, un videojuego isométrico de automatización desarrollado en Unity: [Project Muspelheim](https://github.com/Gabriel-motto/Project-Muspelheim)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack tecnológico
+- Frameworks
+  - React.js
+  - Angular
+  - Node.js
+  - Laravel
+- Lenguajes
+  - HTML, CSS, Javascript
+  - Java
+  - C#
+  - PHP
+  - SQL
+  - Python
